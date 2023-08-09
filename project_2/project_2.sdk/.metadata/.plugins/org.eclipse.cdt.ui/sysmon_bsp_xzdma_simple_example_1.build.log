@@ -1,0 +1,6 @@
+16:50:41 **** Incremental Build of configuration Debug for project sysmon_bsp_xzdma_simple_example_1 ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:50:42 Build Finished (took 614ms)
+

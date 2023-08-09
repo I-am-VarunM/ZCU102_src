@@ -1,0 +1,6 @@
+16:50:47 **** Incremental Build of configuration Debug for project sysmon_ported_zcu102_bsp_xiicps_selftest_example_1 ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:50:48 Build Finished (took 638ms)
+

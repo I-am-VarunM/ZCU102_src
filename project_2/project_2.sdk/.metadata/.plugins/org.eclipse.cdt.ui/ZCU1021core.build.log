@@ -1,0 +1,6 @@
+16:50:29 **** Incremental Build of configuration Debug for project ZCU1021core ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:50:30 Build Finished (took 671ms)
+

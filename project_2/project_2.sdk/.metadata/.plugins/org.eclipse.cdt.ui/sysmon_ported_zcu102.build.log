@@ -1,0 +1,6 @@
+16:50:43 **** Incremental Build of configuration Debug for project sysmon_ported_zcu102 ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:50:44 Build Finished (took 729ms)
+

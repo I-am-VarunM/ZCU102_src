@@ -1,0 +1,6 @@
+17:12:34 **** Auto Build of configuration Debug for project ZCU102trigger ****
+make all 
+make: Nothing to be done for 'all'.
+
+17:12:35 Build Finished (took 709ms)
+

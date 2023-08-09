@@ -1,0 +1,6 @@
+16:50:31 **** Incremental Build of configuration Debug for project aes_bsp_0_xilsecure_aes_example_1 ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:50:31 Build Finished (took 614ms)
+

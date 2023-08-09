@@ -1,0 +1,17 @@
+17:02:11 **** Auto Build of configuration Debug for project sysmonforaes ****
+make all 
+Building file: ../src/xsysmon_psu/xsysmonpsu_polled_example.c
+Invoking: ARM v8 gcc compiler
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xsysmon_psu/xsysmonpsu_polled_example.o" -I../../sysmonforaes_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/xsysmon_psu/xsysmonpsu_polled_example.d" -MT"src/xsysmon_psu/xsysmonpsu_polled_example.o" -o "src/xsysmon_psu/xsysmonpsu_polled_example.o" "../src/xsysmon_psu/xsysmonpsu_polled_example.c"
+In file included from ../src/xsysmon_psu/xsysmonpsu_polled_example.c:65:
+../../sysmonforaes_bsp/psu_cortexa53_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+../src/xsysmon_psu/xsysmonpsu_polled_example.c:66:10: fatal error: uart_header.h: No such file or directory
+ #include "uart_header.h"
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [src/xsysmon_psu/subdir.mk:20: src/xsysmon_psu/xsysmonpsu_polled_example.o] Error 1
+
+17:02:12 Build Finished (took 762ms)
+

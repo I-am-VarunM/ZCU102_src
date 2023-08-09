@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Carina\KIT\ma_ck\zcu102_src\project_2\project_2.sdk\sysmon_zcu102"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="/home/manvar00/Downloads/Zcu_102_withmodule/project_2/project_2.sdk" key="OUTSIDE_LOCATION"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="612" key="DIALOG_X_ORIGIN"/>
+		<item value="326" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
